@@ -1,12 +1,9 @@
 # 🏠 Controle de Aluguéis
 
-![Controle de Aluguéis](https://raw.githubusercontent.com/djangomy/immobile/main/w2.png)
-
 ## 📝 Descrição do Projeto
 
 O *Controle de Aluguéis* é um sistema simples para gerenciamento de imóveis em uma imobiliária. Com ele, é possível cadastrar imóveis, clientes, registrar locações, e gerar relatórios de imóveis locados. O sistema possui uma interface amigável desenvolvida com Bootstrap.
 
-📺 [Playlist com Vídeos Tutoriais](https://www.youtube.com/playlist?list=PL2bJNatYYfGRxFSP1aEUNqaR_ZTqrDO_h)
 
 📂 Repositório inicial: [Configuração Padrão](https://github.com/opencodigos/DjangoProjetoConfiguracao)
 
