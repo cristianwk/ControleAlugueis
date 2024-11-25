@@ -43,4 +43,21 @@ Antes de iniciar o projeto, certifique-se de que os seguintes itens estão insta
 - Python (python==3.*)
 - Pip (gerenciador de pacotes do Python)
 
+## ⚙️ Rodando o sistema
+
+Para iniciar o projeto:
+
+cristianms@PC-Casa MINGW64 /d/xampp/htdocs/python/ControleAlugueis (main)
+$ python -m venv .venv
+
+cristianms@PC-Casa MINGW64 /d/xampp/htdocs/python/ControleAlugueis (main)
+$ source .venv/Scripts/activate
+(.venv) 
+cristianms@PC-Casa MINGW64 /d/xampp/htdocs/python/ControleAlugueis (main)
+$ pip install -r requirements.txt
+
+cristianms@PC-Casa MINGW64 /d/xampp/htdocs/python/ControleAlugueis (main)
+$ python manage.py runserver
+
+acessar em: http://127.0.0.1:8000/
 ---
