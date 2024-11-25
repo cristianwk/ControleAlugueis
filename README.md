@@ -11,7 +11,7 @@ Após configurar e executar o projeto inicial, avançaremos para a modelagem e e
 
 ## 🌟 Fluxo do Sistema
 
-![Fluxo do Sistema](https://versamartonline.shop/images/core.png)
+![Fluxo do Sistema](https://alugueis.consultoriawk.com/core.png)
 
 ## ⚙️ Funcionalidades
 
@@ -53,6 +53,7 @@ $ python -m venv .venv
 cristianms@PC-Casa MINGW64 /d/xampp/htdocs/python/ControleAlugueis (main)
 $ source .venv/Scripts/activate
 (.venv) 
+
 cristianms@PC-Casa MINGW64 /d/xampp/htdocs/python/ControleAlugueis (main)
 $ pip install -r requirements.txt
 
@@ -60,4 +61,10 @@ cristianms@PC-Casa MINGW64 /d/xampp/htdocs/python/ControleAlugueis (main)
 $ python manage.py runserver
 
 acessar em: http://127.0.0.1:8000/
+
+## 🌟 Telas do Sistema
+
+![Telas do Sistema](https://alugueis.consultoriawk.com/home.png)
+![Telas do Sistema](https://alugueis.consultoriawk.com/cad_cliente.png)
+![Telas do Sistema](https://alugueis.consultoriawk.com/cad_imovel.png)
 ---
